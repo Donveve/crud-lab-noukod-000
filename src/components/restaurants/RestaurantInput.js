@@ -34,4 +34,4 @@ class RestaurantInput extends Component {
 };
 
 export default RestaurantInput;
-© 2019 GitHub, Inc.
+
